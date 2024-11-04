@@ -151,7 +151,7 @@ const dataportfolio = [
         link: "#",
     },
     {
-        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Untitled96_20220125105640.png",
+        img: "",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
