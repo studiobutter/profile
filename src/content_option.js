@@ -85,63 +85,73 @@ const services = [{
 const dataportfolio = [
     // Make sure to add your Links using your GitHub Database
     {
-        img: '',
+        img: 'https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Asriel.png',
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Chara_Icon.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Draw_in_my_Style.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Dreams_Thumbnail.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Frisk.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Little_Prince_Thumbnail.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Moth_Discord_Bot.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Skylaart_Banner.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Thumbnail_1.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Omori_-_Sunny.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Untitled77_20211224094840.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Untitled85_20220112103753.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Untitled87_20220111105658.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Untitled96_20220125105640.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
