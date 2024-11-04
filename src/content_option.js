@@ -151,7 +151,22 @@ const dataportfolio = [
         link: "#",
     },
     {
-        img: "",
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Chara_Emotes/Chara_-_Angry.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Chara_Emotes/Chara_-_Heart.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Chara_Emotes/Chara_-_Moth_Hug.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Chara_Emotes/Chara_-_Fire_Burn.png",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
