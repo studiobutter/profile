@@ -91,7 +91,7 @@ const dataportfolio = [
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Chara_Icon.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "An old artwork of Chara",
         link: "#",
     },
     {
