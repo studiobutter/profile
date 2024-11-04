@@ -170,6 +170,61 @@ const dataportfolio = [
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Cover_Art.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Cover_Art_1.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Cover_Art_2.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Dreamwalker.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Movie_Night.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/A_Unforgettable_Party.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Theater.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Theater_-_CN.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Singer's_First_Light.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Sunlight_Awakening.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/The_Ninja_Way.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
 ];
 
 const contactConfig = {
