@@ -255,6 +255,36 @@ const dataportfolio = [
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Others/New_Year_Art.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Others/Season_Of_AURORA_Concert_Thumbnail.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Underflight_OCs/IMG_0468.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Underflight_OCs/IMG_0469.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Underflight_OCs/IMG_0557.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Underflight_OCs/IMG_0558.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
 ];
 
 const contactConfig = {
