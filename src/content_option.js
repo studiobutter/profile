@@ -86,7 +86,7 @@ const dataportfolio = [
     // Make sure to add your Links using your GitHub Database
     {
         img: 'https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Asriel.png',
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "An old Artwork of Asriel",
         link: "#",
     },
     {
