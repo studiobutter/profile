@@ -7,7 +7,7 @@ import ClipboardJS from "clipboard";
 
 import Popup from "reactjs-popup";
 import { isMobile } from 'react-device-detect'
-import 'reactjs-popup/dist/index.css';
+import './index.css';
 
 export const PlayWithMe = () => {
 
@@ -93,7 +93,7 @@ export const PlayWithMe = () => {
               <span> - Asia </span>
               <Popup trigger=
                 {<button> Open Game </button>}
-                position="bottom center">
+                position="top center">
                 <div>Choose Region</div>
                 <button onClick={yuanshen}>Global</button>
                 <button onClick={yuanshenvn}>Vietnam - Funtap</button>
@@ -105,31 +105,31 @@ export const PlayWithMe = () => {
               <span> - Asia </span>
               <Popup trigger=
                 {<button> Open Game </button>}
-                position="bottom center">
+                position="top center">
                 <div>Choose Region</div>
                 <button onClick={StarRail}>Global</button>
                 <button onClick={StarRailVN}>Vietnam - 9T Online</button>
               </Popup>
               <br />
               <br />
-              <strong>Zenless Zone Zero:</strong>{" "}
+              <strong>Zenless:</strong>{" "}
               <a href="game" class="uids" onClick={(e) => e.preventDefault()} data-clipboard-text="1300431899">1300431899</a>
               <span> - Asia </span>
               <Popup trigger=
                 {<button> Open Game </button>}
-                position="bottom center">
+                position="top center">
                 <div>Choose Region</div>
                 <button onClick={Zenless}>Global</button>
                 <button onClick={ZenlessVN}>Vietnam - Gamota</button>
               </Popup>
               <br />
               <br />
-              <strong>Honkai Impact 3rd:</strong>{" "}
+              <strong>HI3rd:</strong>{" "}
               <a href="game" class="uids" onClick={(e) => e.preventDefault()} data-clipboard-text="23825298">23825298</a>
               <span> - Asia </span>
               <Popup trigger=
                 {<button> Open Game </button>}
-                position="bottom center">
+                position="top center">
                 <div>Choose Region</div>
                 <button onClick={BH3SEA}>Global</button>
                 <button onClick={BH3VN}>Vietnam - Funtap</button>
