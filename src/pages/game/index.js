@@ -7,7 +7,7 @@ import ClipboardJS from "clipboard";
 
 import Popup from "reactjs-popup";
 import { isMobile } from 'react-device-detect'
-import 'reactjs-popup/dist/index.css';
+import './index.css';
 
 export const PlayWithMe = () => {
 
@@ -129,7 +129,7 @@ export const PlayWithMe = () => {
               <span> - Asia </span>
               <Popup trigger=
                 {<button> Open Game </button>}
-                position="bottom center">
+                position="top center">
                 <div>Choose Region</div>
                 <button onClick={BH3SEA}>Global</button>
                 <button onClick={BH3VN}>Vietnam - Funtap</button>
