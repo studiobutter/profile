@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.69069082.css",
+    "main.js": "/profile/static/js/main.2b22aa42.js",
+    "static/media/Multiverse_Cover_Art.png": "/profile/static/media/Multiverse_Cover_Art.074047456c1b6a7097df.png",
+    "static/media/Untitled87_20220111105658.png": "/profile/static/media/Untitled87_20220111105658.b17af764b01dc665e20a.png",
+    "static/media/Profile_Picture.png": "/profile/static/media/Profile_Picture.c2e05d7b17aa5cccee9d.png",
+    "index.html": "/profile/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.69069082.css",
+    "static/js/main.2b22aa42.js"
+  ]
+}
