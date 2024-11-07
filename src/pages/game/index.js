@@ -9,6 +9,10 @@ import Popup from "reactjs-popup";
 import { isMobile } from 'react-device-detect'
 import './index.css';
 
+import styled from 'styled-components';
+
+import { HiOutlineInformationCircle } from "react-icons/hi2";
+
 export const PlayWithMe = () => {
 
   const yuanshen = () => { 
@@ -66,6 +70,10 @@ export const PlayWithMe = () => {
       clipboard.destroy();
     };
   }, []);
+  
+  const SmallTextContainer = styled.div`
+  font-size: 12px;
+`;
 
   return (
     <HelmetProvider>
@@ -85,7 +93,12 @@ export const PlayWithMe = () => {
         <script src="dist/clipboard.min.js"></script>
           <Col lg="5" className="mb-5">
             <p>Click on the UIDs to Copy. Click "Open Game" to launch to the game.</p>
-            <p>Note: The Game or corresponding launcher must be install for the button to work. Not all game/launcher is supported the "Open Game" button</p>
+            <p>Note: The Game or corresponding launcher must be install for the button to work. </p>
+              <SmallTextContainer>
+                <HiOutlineInformationCircle />
+                <span> Google Play PC, Epic Games and China Regions are not supported. Wuthering Waves not supported</span>
+              </SmallTextContainer>
+            <p></p>
             <p>For Sky: Children of the Light, join the <a href="https://discord.gg/v7eJmvQVgw">Discord</a> server if you want to friend me in Sky.</p>
             <uids>
               <strong>Genshin:</strong>{" "}
