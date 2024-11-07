@@ -48,7 +48,7 @@ export const Underflight = () => {
         <p></p>
         <br></br>
         <p>Records of the Multiverse is an extension to the Underflight Project where we gather a ton of official music to create a story from there and create a playlist series.</p>
-        <p>The project is on <a href="https://open.spotify.com/user/6rzaww1isidilrdh9ee1gtlx7?si=e53b94ca37314da2">Spotify</a>, <a href="https://music.apple.com/profile/studiobuttermedia">Apple Music</a> and <a href="https://music.youtube.com/channel/UCRglLNZaRX1eHR6GKcAxL6g?feature=shared">YouTube Music</a></p>
+        <p>The project is on <a href="https://open.spotify.com/user/6rzaww1isidilrdh9ee1gtlx7?si=e53b94ca37314da2">Spotify</a>, <a href="https://music.apple.com/profile/studiobuttermedia">Apple Music</a> and <a href="https://www.youtube.com/channel/UCRglLNZaRX1eHR6GKcAxL6g?feature=shared">YouTube Music</a></p>
         <br></br>
       </Container>
     </HelmetProvider>
