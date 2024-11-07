@@ -27,4 +27,4 @@ yarn-error.log*
 .vercel
 
 # Actions - Trigger
-deploy.js
+# deploy.js
