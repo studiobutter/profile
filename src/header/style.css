@@ -4,6 +4,23 @@
     padding-right: 10px;
 }
 
+.header {
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    transition: top 0.3s;
+}
+
+.header-hidden {
+    top: -100px; /* Adjust this value according to your header height */
+}
+
+.header-visible {
+    top: 0;
+}
+
 .menu__button {
     color: var(--text-color);
 }
@@ -82,7 +99,7 @@
     padding-top: 5em;
     padding-bottom: 3em;
     height: 100%;
-    overflow-y: auto;
+    overflow-y: hidden;
 }
 
 .site__navigation {
@@ -152,7 +169,7 @@
     position: relative;
     width: 100%;
     height: 100%;
-    overflow: hidden auto;
+    overflow: hidden;
 }
 
 .the_menu {

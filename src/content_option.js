@@ -122,7 +122,7 @@ const dataportfolio = [
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Skylaart_Banner.png",
         description: "This artwork was for Skylaart Discord banner but end up never used.",
-        link: "#",
+        link: "https://www.instagram.com/charaanimates/p/CUnGn0Iv-jb/",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/ibisPaint/Thumbnail_1.png",
@@ -137,7 +137,7 @@ const dataportfolio = [
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Untitled77_20211224094840.png",
         description: "This artwork was made for 2021 Christmas featuring the main Undertale Characters.",
-        link: "#",
+        link: "https://www.instagram.com/charaanimates/p/CX2Wz1cvAZW/",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Photoshops/Untitled85_20220112103753.png",
@@ -172,57 +172,57 @@ const dataportfolio = [
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Cover_Art.png",
         description: "Records of the Multiverse Cover Art - Vol II",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Cover_Art_1.png",
         description: "Records of the Multiverse Cover Art - Vol 0",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Cover_Art_2.png",
         description: "Records of the Multiverse Cover Art - Vol VII",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Dreamwalker.png",
         description: "Records of the Multiverse Cover Art - Vol X",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Movie_Night.png",
         description: "Records of the Multiverse Cover Art - Vol [TBA]",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/A_Unforgettable_Party.png",
         description: "Records of the Multiverse Cover Art - Vol [TBA]",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Theater.png",
         description: "Multiverse Theater Cover Art",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Multiverse_Theater_-_CN.png",
         description: "Multiverse Theater Cover Art - Made exclusively for the Chinese Music Service QQ Music",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the#",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Singer's_First_Light.png",
         description: "Records of the Multiverse Cover Art - Vol [TBA]",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/Sunlight_Awakening.png",
         description: "Records of the Multiverse Cover Art - Vol [TBA]",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Multiverse_Cover_Arts/The_Ninja_Way.png",
         description: "Records of the Multiverse Cover Art - Vol [TBA]",
-        link: "#",
+        link: "about/underflight#:~:text=on%20social%20media.-,Records%20of%20the%20Multiverse,-Records%20of%20the",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Music_of_the_Wind/New_Profile_Picture.png",
@@ -232,27 +232,27 @@ const dataportfolio = [
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Music_of_the_Wind/Chara_-_Music_of_the_Winds.png",
         description: "Music of the Wind Profile Picture Series - Chara",
-        link: "#",
+        link: "https://www.instagram.com/charaanimates/p/CmuMVtmv0NC/",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Music_of_the_Wind/Frisk_-_Music_of_the_Winds.png",
         description: "Music of the Wind Profile Picture Series - Frisk",
-        link: "#",
+        link: "https://www.instagram.com/charaanimates/p/CmuMVtmv0NC/",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Music_of_the_Wind/Mari_-_Music_of_the_Winds.png",
         description: "Music of the Wind Profile Picture Series - Mari",
-        link: "#",
+        link: "https://www.instagram.com/charaanimates/p/CmuMVtmv0NC/",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Music_of_the_Wind/Sunny_-_Music_of_the_Winds.png",
         description: "Music of the Wind Profile Picture Series - Sunny",
-        link: "#",
+        link: "https://www.instagram.com/charaanimates/p/CmuMVtmv0NC/",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Music_of_the_Wind/Music_of_the_Winds.png",
         description: "Music of the Wind Profile Picture Series - Skykid",
-        link: "#",
+        link: "https://www.instagram.com/charaanimates/p/CmrVMGPPB5Y/",
     },
     {
         img: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/arts/Procreate/Others/New_Year_Art.png",
