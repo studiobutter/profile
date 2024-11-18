@@ -11,7 +11,8 @@ import {
   FaSnapchatGhost,
   FaTiktok,
   FaCircle,
-  FaDiscord
+  FaDiscord,
+  FaTumblr,
 } from "react-icons/fa";
 import { 
   FaBluesky
@@ -31,6 +32,7 @@ const ICON_MAPPING = {
   youtube: FaYoutube,
   discord: FaDiscord,
   bluesky: FaBluesky,
+  tumblr: FaTumblr,
 };
 
 export const Socialicons = (params) => {

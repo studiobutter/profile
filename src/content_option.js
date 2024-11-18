@@ -298,7 +298,8 @@ const socialprofils = {
     facebook: "https://www.facebook.com/studiobuttermedia",
     twitter: "https://twitter.com/StudioButter2",
     instagram: "https://www.instagram.com/studiobuttermedia/",
-    bluesky: "https://bsky.app/profile/studiobutter.bsky.social"
+    bluesky: "https://bsky.app/profile/studiobutter.bsky.social",
+    tumblr: "https://studiobuttermedia.tumblr.com/"
 };
 export {
     meta,
