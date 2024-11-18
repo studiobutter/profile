@@ -11,8 +11,12 @@ import {
   FaSnapchatGhost,
   FaTiktok,
   FaCircle,
-  FaDiscord
+  FaDiscord,
+  FaTumblr,
 } from "react-icons/fa";
+import { 
+  FaBluesky
+} from "react-icons/fa6"
 import { socialprofils } from "../../content_option";
 
 const ICON_MAPPING = {
@@ -27,6 +31,8 @@ const ICON_MAPPING = {
   twitch: FaTwitch,
   youtube: FaYoutube,
   discord: FaDiscord,
+  bluesky: FaBluesky,
+  tumblr: FaTumblr,
 };
 
 export const Socialicons = (params) => {

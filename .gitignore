@@ -28,3 +28,4 @@ yarn-error.log*
 
 # Actions - Trigger
 # deploy.js
+.env*.local
