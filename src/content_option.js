@@ -297,7 +297,8 @@ const socialprofils = {
     discord: "https://discord.gg/v7eJmvQVgw",
     facebook: "https://www.facebook.com/studiobuttermedia",
     twitter: "https://twitter.com/StudioButter2",
-    instagram: "https://www.instagram.com/studiobuttermedia/"
+    instagram: "https://www.instagram.com/studiobuttermedia/",
+    bluesky: "https://bsky.app/profile/studiobutter.bsky.social"
 };
 export {
     meta,
