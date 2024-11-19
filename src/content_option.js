@@ -47,6 +47,14 @@ const projects = [
         name:"Underflight",
         link:"about/underflight",
     },
+    {
+        name:"[OLD] Minecraft Bedrock Hidden Items",
+        link:"https://github.com/studiobutter/Minecraft_Bedrock_Hidden_Items",
+    },
+    {
+        name:"[OLD] Minecraft Bedrock Custom Music Template",
+        link:"https://github.com/studiobutter/Custom-Music-v2",
+    },
 ]
 
 const skills = [
