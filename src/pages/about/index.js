@@ -58,6 +58,9 @@ export const About = () => {
           </Col>
         </Row>
         <Row className=" sec_sp">
+          <p></p>
+          <p></p>
+          <p></p>
           <Col lg="5">
             <h3 className="color_sec py-4">Timeline</h3>
           </Col>
