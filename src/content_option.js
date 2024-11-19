@@ -294,12 +294,16 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/studiobutter",
+    youtube: "https://www.youtube.com/channel/UCRglLNZaRX1eHR6GKcAxL6g",
+    tiktok: "https://www.tiktok.com/@studiobutter1",
+    twitch: "https://www.twitch.tv/charaanimates",
     discord: "https://discord.gg/v7eJmvQVgw",
     facebook: "https://www.facebook.com/studiobuttermedia",
-    twitter: "https://twitter.com/StudioButter2",
     instagram: "https://www.instagram.com/studiobuttermedia/",
+    threads: "https://www.threads.net/@studiobuttermedia",
     bluesky: "https://bsky.app/profile/studiobutter.bsky.social",
-    tumblr: "https://studiobuttermedia.tumblr.com/"
+    twitter: "https://twitter.com/StudioButter2",
+    tumblr: "https://studiobuttermedia.tumblr.com/",
 };
 export {
     meta,

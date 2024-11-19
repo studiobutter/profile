@@ -4,35 +4,33 @@ import {
   FaGithub,
   FaTwitter,
   FaFacebookF,
-  FaLinkedin,
   FaYoutube,
   FaTwitch,
   FaInstagram,
-  FaSnapchatGhost,
   FaTiktok,
   FaCircle,
   FaDiscord,
   FaTumblr,
 } from "react-icons/fa";
 import { 
-  FaBluesky
+  FaBluesky,
+  FaThreads
 } from "react-icons/fa6"
 import { socialprofils } from "../../content_option";
 
 const ICON_MAPPING = {
   default: FaCircle,
-  facebook: FaFacebookF,
   github: FaGithub,
+  facebook: FaFacebookF,
   instagram: FaInstagram,
-  linkedin: FaLinkedin,
-  snapchat: FaSnapchatGhost,
-  tiktok: FaTiktok,
+  threads: FaThreads,
+  bluesky: FaBluesky,
   twitter: FaTwitter,
+  tumblr: FaTumblr,
+  tiktok: FaTiktok,
   twitch: FaTwitch,
   youtube: FaYoutube,
   discord: FaDiscord,
-  bluesky: FaBluesky,
-  tumblr: FaTumblr,
 };
 
 export const Socialicons = (params) => {
