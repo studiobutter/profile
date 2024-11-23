@@ -11,7 +11,7 @@ export const TOS = () => {
       <Container>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>{meta.title} | Terms of Service</title>
+          <title>Terms of Service | {meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
         <h1>Terms of Service</h1>

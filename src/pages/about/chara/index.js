@@ -15,7 +15,7 @@ export const CharaAni = () => {
       <Container>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>{meta.title} | About Internet Persona - Chara Animates</title>
+          <title>About Internet Persona - Chara Animates | {meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
         <br></br>

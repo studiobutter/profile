@@ -15,7 +15,7 @@ export const Underflight = () => {
       <Container>
         <Helmet>
           <meta charSet="utf-8" />
-          <title>{meta.title} | About Underflight</title>
+          <title>About Underflight | {meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
         <br></br>
