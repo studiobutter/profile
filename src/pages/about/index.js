@@ -8,6 +8,7 @@ import {
   worktimeline,
   skills,
   projects,
+  share_content
 } from "../../content_option";
 
 export const About = () => {
@@ -16,7 +17,7 @@ export const About = () => {
       <Container className="About-header">
         <Helmet>
           <meta charSet="utf-8" />
-          <title> About | {meta.title}</title>
+          <title>About | {meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
@@ -32,6 +33,7 @@ export const About = () => {
           <Col lg="7" className="d-flex align-items-center">
             <div>
               <p>{dataabout.aboutme}</p>
+              <p>On internet, I have an <a href="/about/sona">Interesting Persona called Chara</a></p>
             </div>
           </Col>
         </Row>
@@ -102,6 +104,28 @@ export const About = () => {
                 </div>
               );
             })}
+          </Col>
+        </Row>
+        <Row className="share">
+          <Col lg="5">
+            <h3 className="color_sec py-4">Share Content</h3>
+            <br></br>
+            <br></br>
+
+          </Col>
+          <Col lg="7" className="d-flex align-items-center">
+            <div>
+            {share_content.map((data, i) => {
+                  return (
+                    <tr key={i}>
+                      <strong><a href={data.link} onclick={(e) => e.preventDefault}>{data.name}</a></strong>
+                      <span></span>
+                      <p></p>
+                    </tr>
+                  );
+                })}
+            </div>
+            <br></br>
           </Col>
         </Row>
         <br></br>

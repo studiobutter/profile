@@ -2,6 +2,7 @@ import React from "react";
 import { Route, Routes} from "react-router-dom";
 import withRouter from "../hooks/withRouter"
 
+import { CSSTransition, TransitionGroup } from "react-transition-group";
 import { Home } from "../pages/home";
 import { Portfolio } from "../pages/portfolio";
 import { ContactUs } from "../pages/contact";
@@ -9,8 +10,8 @@ import { About } from "../pages/about";
 import { Socialicons } from "../components/socialicons";
 import { PlayWithMe } from "../pages/game";
 import { Underflight } from "../pages/about/underflight";
-
-import { CSSTransition, TransitionGroup } from "react-transition-group";
+import { CharaAni } from "../pages/about/chara";
+import { TOS } from "../pages/tos";
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -30,7 +31,9 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/contact" element={<ContactUs />} />
         <Route path="*" element={<Home />} />
         <Route path="/game" element={<PlayWithMe />} />
+        <Route path="/tos" element={<TOS />} />
         <Route path="/about/underflight" element={<Underflight />} />
+        <Route path="/about/sona" element={<CharaAni />} />
       </Routes>
     </CSSTransition>
   </TransitionGroup>

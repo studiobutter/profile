@@ -74,10 +74,7 @@ const Headermain = () => {
           </div>
           <div className="menu_footer d-flex flex-column flex-md-row justify-content-between align-items-md-center position-absolute w-100 p-3">
             <div className="d-flex">
-              <a href={socialprofils.facebook}>Facebook</a>
-              <a href={socialprofils.github}>GitHub</a>
-              <a href={socialprofils.twitter}>Twitter</a>
-              <a href={socialprofils.discord}>Discord</a>
+              <a href="/tos">Terms of Service</a>
             </div>
             <p className="copyright m-0">copyright {logotext}. Page Template by <a href="https://github.com/ubaimutl/react-portfolio">ubaimutl</a></p>
           </div>
