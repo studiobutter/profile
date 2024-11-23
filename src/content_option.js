@@ -57,6 +57,25 @@ const projects = [
     },
 ]
 
+const share_content = [
+    {
+        name:"Sky Wallpapers",
+        link:"https://1drv.ms/u/s!AiGI9MtbqsekgZ0pdpz__eu4v413ug?e=2rXolN/",
+    },
+    {
+        name:"Sky Beta Wallpapers",
+        link:"https://1drv.ms/u/s!AiGI9MtbqsekgZ8Oe2fBVAe3OP8gHw?e=pH5IQW",
+    },
+    {
+        name:"The Cherry Waffle Mix - Spotify",
+        link:"https://open.spotify.com/playlist/1xlREi0LKljb1vD2La6bTQ?si=ogVIbfSzSBWyBhTcI6sKVA",
+    },
+    {
+        name:"The Cherry Waffle Mix - Apple Music",
+        link:"https://music.apple.com/playlist/the-cherry-waffle-mix/pl.u-GgA5kamCo7v6aVA",
+    },
+]
+
 const skills = [
     {
         name: "Piano",
@@ -325,4 +344,5 @@ export {
     socialprofils,
     logotext,
     projects,
+    share_content,
 };
