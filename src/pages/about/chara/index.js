@@ -7,9 +7,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 import { FaArrowLeft } from "react-icons/fa";
 
-
-
-import BannerImage from "../../../assets/images/arts/Procreate/Music_of_the_Wind/Chara_-_Music_of_the_Winds.png"
+import SonaImage from "../../../assets/images/arts/Procreate/Music_of_the_Wind/Chara_-_Music_of_the_Winds.png"
 
 export const CharaAni = () => {
   return (
@@ -29,9 +27,9 @@ export const CharaAni = () => {
         <h1>Chara Animates</h1>
         <br></br>
         <img 
-          src={BannerImage} 
+          src={SonaImage} 
           alt="Sona Profile Picture"
-          className="banner-image">
+          className="sona-image">
         </img>
         <p></p>
         <br></br>

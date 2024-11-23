@@ -29,7 +29,7 @@ button.btn.ac_btn:hover {
     animation-delay: .3s;
 }
 
-.banner-image {
+.image {
     width: 100%; /* Full width on small screens */
     max-width: 600px; /* Adjust maximum width as needed */
     height: auto; /* Maintain aspect ratio */
@@ -43,8 +43,8 @@ button.btn.ac_btn:hover {
   
   /* Media query for larger screens */
   @media (min-width: 768px) {
-    .banner-image {
-      width: 600px; /* Fixed width on larger screens */
+    .image {
+      width: 550px; /* Fixed width on larger screens */
     }
     .cover-image {
         width: 400px;

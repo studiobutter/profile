@@ -29,7 +29,7 @@ export const Underflight = () => {
         <img 
           src={BannerImage} 
           alt="Background for Underflight"
-          className="banner-image">
+          className="image">
         </img>
         <p></p>
         <br></br>
