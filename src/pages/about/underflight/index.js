@@ -33,7 +33,7 @@ export const Underflight = () => {
         </img>
         <p></p>
         <br></br>
-        <p>Underflight is a Alterative Universe of Undertale and Deltarune focus on main Characters from those game like Chara, Asriel, Frisk, Kris, Susie, etc.... The story starts in the future where they encounter a mysterious portal where their journey awaits and new powers to obtain. Two new character will also appears on the series.</p>
+        <p>Underflight is a Alterative Universe story of the following indie games, Undertale and Deltarune, created by Toby Fox. The story focus on main Characters from those game like Chara, Asriel, Frisk, Kris, Susie, etc.... The story starts in the future where they encounter a mysterious portal where their journey awaits and new powers to obtain. Two new character will also appears on the series.</p>
         <p>It was made based on the events in Undertale, the ongoing game Deltarune and Sky: Children of the Light. But since then, the story has branch out more with combination of many HoYoverse game soon to be added.</p>
         <p>It was planned to be an animated project but my skill isn't good enough as an Artist and I feek like I have a lot to learn so it has been on halt since.</p>
         <p>While the animated project haven't started yet. The art have been made and posted on social media.</p>
