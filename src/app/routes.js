@@ -12,6 +12,7 @@ import { PlayWithMe } from "../pages/game";
 import { Underflight } from "../pages/about/underflight";
 import { CharaAni } from "../pages/about/chara";
 import { TOS } from "../pages/tos";
+import { Changelogs } from "../pages/changelogs";
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -32,6 +33,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="*" element={<Home />} />
         <Route path="/game" element={<PlayWithMe />} />
         <Route path="/tos" element={<TOS />} />
+        <Route path="/changelogs" element={<Changelogs />} />
         <Route path="/about/underflight" element={<Underflight />} />
         <Route path="/about/sona" element={<CharaAni />} />
       </Routes>
