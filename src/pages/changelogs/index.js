@@ -25,6 +25,7 @@ export const Changelogs = () => {
               <h5>{data.date}</h5>
               <p></p>
               <p>{data.content}</p>
+              <br></br>
             </tr>
           );
         })}
