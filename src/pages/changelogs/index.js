@@ -17,6 +17,9 @@ export const Changelogs = () => {
           <meta name="description" content={meta.description} />
         </Helmet>
         <h1>Changelogs</h1>
+        <p></p>
+        <i>Changelogs are based on the changes I made thru GitHub Pull Request</i>
+        <p></p>
         <br></br>
         {changelog.map
         ((data, i) => {
