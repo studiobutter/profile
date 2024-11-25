@@ -18,7 +18,7 @@ export const Changelogs = () => {
         </Helmet>
         <h1>Changelogs</h1>
         <p></p>
-        <i>Changelogs are based on the changes I made thru GitHub Pull Request</i>
+        <i>Changelogs are based on the changes I made thru <a href="https://github.com/studiobutter/profile/pulls?q=is%3Apr+is%3Aclosed">GitHub Pull Request</a></i>
         <p></p>
         <br></br>
         {changelog.map
