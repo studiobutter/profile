@@ -1,5 +1,9 @@
 const changelog = [
     {
+        date: "December 2nd, 2024",
+        content: "Collaboration page is open for artist!"
+    },
+    {
         date: "November 26th, 2024",
         content: "Added Changelogs page"
     },

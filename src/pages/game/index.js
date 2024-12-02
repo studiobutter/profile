@@ -1,4 +1,4 @@
-import React, { useEffect }from "react";
+import React, { useEffect } from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { meta } from "../../content_option";

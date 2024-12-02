@@ -13,6 +13,7 @@ import { Underflight } from "../pages/about/underflight";
 import { CharaAni } from "../pages/about/chara";
 import { TOS } from "../pages/tos";
 import { Changelogs } from "../pages/changelogs";
+import { Collab } from "../pages/collab"
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -36,6 +37,7 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/changelogs" element={<Changelogs />} />
         <Route path="/about/underflight" element={<Underflight />} />
         <Route path="/about/sona" element={<CharaAni />} />
+        <Route path="/collab" element={<Collab />} />
       </Routes>
     </CSSTransition>
   </TransitionGroup>
