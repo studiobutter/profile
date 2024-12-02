@@ -76,6 +76,7 @@ const Headermain = () => {
             <div className="d-flex">
               <a href="/tos">Terms of Service</a>
               <a href="/changelogs">Changelogs</a>
+              <a href="/collab">Collab</a>
             </div>
             <p className="copyright m-0">copyright {logotext}. Page Template by <a href="https://github.com/ubaimutl/react-portfolio">ubaimutl</a></p>
           </div>
