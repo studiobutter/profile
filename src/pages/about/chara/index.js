@@ -22,16 +22,22 @@ export const CharaAni = () => {
         <br></br>
         <br></br>
         <h1>Chara Animates</h1>
+        <hr className="t_border my-4 ml-0 text-left" />
         <br></br>
-        <img 
-          src={SonaImage} 
-          alt="Sona Profile Picture"
-          className="sona-image">
-        </img>
-        <p></p>
-        <br></br>
-        <p>Chara Animates is a Character persona based on Chara, a Character from Undertale, made by Toby Fox. I used on the internet around 2019 till now. It was start as for role playing on Discord turn to being the main account I used for Discord as well now to incorporate in Underflight Lore. It was a fun journey with this account, learning many things and made many mistakes. Nowadays this character is the soul purpose I started PNGTuber on Twitch.</p>
-        <p>Finding social media? It has been moved to <a href="../socials">Social Page</a></p>
+        <Row>
+          <Col md={4}>
+            <img 
+              src={SonaImage} 
+              alt="Sona Profile Picture"
+              className="sona-image">
+            </img>
+            <p></p>
+          </Col>
+          <Col md={8}>
+            <p>Chara Animates is a Character persona based on Chara, a Character from Undertale, made by Toby Fox. I used on the internet around 2019 till now. It was start as for role playing on Discord turn to being the main account I used for Discord as well now to incorporate in Underflight Lore. It was a fun journey with this account, learning many things and made many mistakes. Nowadays this character is the soul purpose I started PNGTuber on Twitch.</p>
+            <p>Finding social media? It has been moved to <a href="../socials">Social Page</a></p>
+          </Col>
+        </Row>
         <br></br>
       </Container>
     </HelmetProvider>
