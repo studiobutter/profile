@@ -29,22 +29,19 @@ button.btn.ac_btn:hover {
     animation-delay: .3s;
 }
 
-.collab-image {
+.sona-image {
     width: 100%; /* Full width on small screens */
-    max-width: 400px; /* Adjust maximum width as needed */
+    max-width: 600px; /* Adjust maximum width as needed */
     height: auto; /* Maintain aspect ratio */
 }
   
   /* Media query for larger screens */
   @media (min-width: 768px) {
-    .collab-image {
-      width: 350px; /* Fixed width on larger screens */
+    .sona-image {
+      width: 300px; /* Fixed width on larger screens */
     }
   }
   
-.t_border {
-    border-color: var(--text-color) !important;
-}
 
 @keyframes shift-rightwards {
     0% {

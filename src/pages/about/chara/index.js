@@ -18,46 +18,24 @@ export const CharaAni = () => {
           <title>About Internet Persona - Chara Animates | {meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
-        <br></br>
-        <br></br>
-        <FaArrowLeft />
-        <span> <a href="javascript:window.history.back();" onclick={(e) => e.preventDefault}>Go Back</a></span>
+        <FaArrowLeft /> <a href="javascript:window.history.back();" onclick={(e) => e.preventDefault}>Go Back</a>
         <br></br>
         <br></br>
         <h1>Chara Animates</h1>
+        <hr className="t_border my-4 ml-0 text-left" />
         <br></br>
-        <img 
-          src={SonaImage} 
-          alt="Sona Profile Picture"
-          className="sona-image">
-        </img>
-        <p></p>
-        <br></br>
-        <p>Chara Animates is a Character persona based on Chara, a Character from Undertale, made by Toby Fox. I used on the internet around 2019 till now. It was start as for role playing on Discord turn to being the main account I used for Discord as well now to incorporate in Underflight Lore. It was a fun journey with this account, learning many things and made many mistakes. Nowadays this character is the soul purpose I started PNGTuber on Twitch.</p>
-        <br></br>
-        <h2>Socials</h2>
         <Row>
-          <Col lg="5">
-            <a href="https://www.youtube.com/channel/UCV5DwSdwVVI0wHJT0jlhZTQ">YouTube - Long Form</a>
-            <p></p>
-            <a href="https://www.youtube.com/channel/UCM_V4AyMDnBxKVVKcUj-ZgQ">YouTube - Short Form</a>
-            <p></p>
-            <a href="https://twitch.tv/charaanimates/">Twitch</a>
-            <p></p>
-            <a href="https://www.tiktok.com/@charaanimates/">TikTok</a>
+          <Col md={4}>
+            <img 
+              src={SonaImage} 
+              alt="Sona Profile Picture"
+              className="sona-image">
+            </img>
             <p></p>
           </Col>
-          <Col lg="5">
-            <a href="https://facebook.com/chara.animates/">Facebook</a>
-            <p></p>
-            <a href="https://instagram.com/charaanimates/">Instagram</a>
-            <p></p>
-            <a href="https://twitter.com/charaanimate/">Twitter</a>
-            <p></p>
-            <a href="https://www.tumblr.com/charaanimate">Tumblr</a>
-            <p></p>
-            <a href="https://discord.gg/v7eJmvQVgw">Discord Server</a>
-            <p></p>
+          <Col md={8}>
+            <p>Chara Animates is a Character persona based on Chara, a Character from Undertale, made by Toby Fox. I used on the internet around 2019 till now. It was start as for role playing on Discord turn to being the main account I used for Discord as well now to incorporate in Underflight Lore. It was a fun journey with this account, learning many things and made many mistakes. Nowadays this character is the soul purpose I started PNGTuber on Twitch.</p>
+            <p>Finding social media? It has been moved to <a href="../socials">Social Page</a></p>
           </Col>
         </Row>
         <br></br>

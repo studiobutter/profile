@@ -35,19 +35,19 @@ button.btn.ac_btn:hover {
     height: auto; /* Maintain aspect ratio */
 }
 
-.cover-image {
+.cover {
     width: 100%; /* Full width on small screens */
     max-width: 600px; /* Adjust maximum width as needed */
     height: auto; /* Maintain aspect ratio */
 }
   
   /* Media query for larger screens */
-  @media (min-width: 768px) {
+  @media (min-width: 600px) {
     .image {
       width: 550px; /* Fixed width on larger screens */
     }
-    .cover-image {
-        width: 400px;
+    .cover {
+        width: 350px;
     }
   }
   
