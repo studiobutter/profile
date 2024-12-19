@@ -37,8 +37,8 @@ button.btn.ac_btn:hover {
   
   /* Media query for larger screens */
   @media (min-width: 768px) {
-    .sona-image {
-      width: 300px; /* Fixed width on larger screens */
+    .collab-image {
+      width: 350px; /* Fixed width on larger screens */
     }
   }
   
