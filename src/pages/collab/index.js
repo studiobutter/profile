@@ -51,16 +51,18 @@ export const Collab = () => {
               alt="Collaboration Image: Frisk and Chara wondering the next Universe."
               className="collab-image">
             </img>
+            <p></p>
           </Col>
           <Col md={8}>
             <p>Open Collaboration is now open! Create Now! Use #CharaAniCollab and #RecordsMultiverse. <a href="collab" class="uids" onClick={(e) => e.preventDefault()} data-clipboard-text="#CharaAniCollab #RecordsMultiverse">Click here to copy Hashtags</a></p>
             <p><strong>Theme: </strong>Always Together.</p>
             <p>You may allow replacing the current watermark with yours but you will need to add <strong>©Studio Butter</strong> with it.</p>
             <p>You might get a chance to be picked for a private collaboration for your art to be spotlight on the next playlist cover. Open Collaboration ends on December 30th. Artwork wll be picked around December 31st - January 1st. Selected Artists will be contact on January 2nd.</p>
-            <br></br>
+            <p>Click below to download the Project file</p>
+            <p></p>
             <a href="https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/downloadables/Collaboration_Artwork.procreate" className="text_2">
               <div id="button_h" className="ac_btn btn ">
-                Download Procreate Project
+                Procreate File
               <div className="ring one"></div>
               <div className="ring two"></div>
               <div className="ring three"></div>
@@ -68,7 +70,7 @@ export const Collab = () => {
             </a>
             <a href="https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/downloadables/Collaboration_Artwork.psd" className="text_2">
               <div id="button_h" className="ac_btn btn ">
-                Download Photoshop Project
+                Photoshop File 
               <div className="ring one"></div>
               <div className="ring two"></div>
               <div className="ring three"></div>
