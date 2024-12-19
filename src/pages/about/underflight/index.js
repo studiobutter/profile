@@ -18,10 +18,7 @@ export const Underflight = () => {
           <title>About Underflight | {meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
-        <br></br>
-        <br></br>
-        <FaArrowLeft />
-        <span> <a href="javascript:window.history.back();" onclick={(e) => e.preventDefault}>Go Back</a></span>
+        <FaArrowLeft /> <a href="javascript:window.history.back();" onclick={(e) => e.preventDefault}>Go Back</a>
         <br></br>
         <br></br>
         <h1>Underflight</h1>

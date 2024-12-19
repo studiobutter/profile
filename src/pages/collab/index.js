@@ -40,6 +40,7 @@ export const Collab = () => {
         <h1>Collaboration</h1>
         <br></br>
         <p>This will be the place for current and upcoming community Collaboration.</p>
+        <hr className="t_border my-4 ml-0 text-left" />
         <br></br>
         <h2>Ongoing</h2>
         <br></br>

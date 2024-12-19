@@ -16,6 +16,8 @@ import {
   FaBluesky,
   FaThreads
 } from "react-icons/fa6"
+import { CgMoreO } from "react-icons/cg";
+import { ReactComponent as HoYoLAB } from "../../assets/icons/HoYoLAB_Gray.svg";
 import { socialprofils } from "../../content_option";
 
 const ICON_MAPPING = {
@@ -31,6 +33,8 @@ const ICON_MAPPING = {
   twitch: FaTwitch,
   youtube: FaYoutube,
   discord: FaDiscord,
+  hoyolab: HoYoLAB,
+  more: CgMoreO,
 };
 
 export const Socialicons = (params) => {

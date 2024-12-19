@@ -16,7 +16,7 @@ export const TOS = () => {
         </Helmet>
         <h1>Terms of Service</h1>
         <i>Last Update: November 24rd, 2024</i>
-        <br></br>
+        <hr className="t_border my-4 ml-0 text-left" />
         <br></br>
         <h2>Assets and Content Copyright</h2>
         <br></br>
@@ -24,6 +24,7 @@ export const TOS = () => {
         <p>- <strong>[Personal]</strong> By using our assets, you are required to put our watermark in your work plus your watermark to prevent ownership rights being stolen.</p>
         <p>- By using our assets, you are not allowed to replicate it and claiming as your own. For corporate reason, if you wish to license, please email me for anything marketing uses.</p>
         <p>- By using our assets, you are not allowed to use it for AI Training purposes.</p>
+        <hr className="t_border my-4 ml-0 text-left" />
         <br></br>
         <h2>Media Commissions</h2>
         <br></br>
@@ -35,6 +36,7 @@ export const TOS = () => {
         <p>- I will required reference work or description before continue.</p>
         <p>- I can only make up to 4 revisions.</p>
         <p><strong>Rejected requests</strong>: Most common are Blood related, Complex things, sensitive works including NSFW. For non-common ones are depends on the creator. Generally these are for art but graphic related and video editing varies on the workflow you asking.</p>
+        <hr className="t_border my-4 ml-0 text-left" />
         <br></br>
         <h3>Refund Policy</h3>
         <br></br>
@@ -43,6 +45,7 @@ export const TOS = () => {
         <p>- Depending on what situation, I can cancel some commissions or put them on hold in case of heath issue or emergency. If canceled, you will receive a refund through the provided Payment Method.</p>
         <p>• For game gifting, they can be refunded if supported by game or platform or an approval from the Game's Customer Support is required before doing an IAP Refund to prevent account bans. If the refund fails, you can request the Artwork to be put on hold. Hold request are not limited during these situation. You are allowed to cancel the artwork if you don't want to request a hold but do note in certain situation where refunds are not available, you have to accept the lost. Sorry.</p> 
         <p>- Upon request, Commission can be hold up to 3 days for normal days. Any more is not allow.</p>
+        <hr className="t_border my-4 ml-0 text-left" />
         <br></br>
         <h3>Client Communitcation</h3>
         <br></br>

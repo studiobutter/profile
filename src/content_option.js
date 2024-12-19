@@ -40,12 +40,12 @@ const worktimeline = [{
 
 const projects = [
     {
-        name:"Translator - Hoyo Buddy",
-        link:"https://seria.is-a.dev/hoyo-buddy/",
-    },
-    {
         name:"Underflight",
         link:"about/underflight",
+    },
+    {
+        name:"Vietnamese Translator - Hoyo Buddy",
+        link:"https://seria.is-a.dev/hoyo-buddy/",
     },
     {
         name:"[OLD] Minecraft Bedrock Hidden Items",
@@ -322,15 +322,11 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/studiobutter",
     youtube: "https://www.youtube.com/channel/UCRglLNZaRX1eHR6GKcAxL6g",
-    tiktok: "https://www.tiktok.com/@studiobutter1",
     twitch: "https://www.twitch.tv/charaanimates",
     discord: "https://discord.gg/v7eJmvQVgw",
-    facebook: "https://www.facebook.com/studiobuttermedia",
     instagram: "https://www.instagram.com/studiobuttermedia/",
-    threads: "https://www.threads.net/@studiobuttermedia",
     bluesky: "https://bsky.app/profile/studiobutter.bsky.social",
-    twitter: "https://twitter.com/StudioButter2",
-    tumblr: "https://studiobuttermedia.tumblr.com/",
+    more: "./socials",
 };
 export {
     meta,
