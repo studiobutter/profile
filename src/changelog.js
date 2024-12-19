@@ -1,7 +1,7 @@
 const changelog = [
     {
         date: "December 20nd, 2024",
-        content: "Cleaning the website up. Removing cluter elements. Added new Social Media page. Add seperators on certain pages."
+        content: "Cleaning the website up. Removing cluter elements. Added new Social Media page. Made some changes to the page layout."
     },
     {
         date: "December 2nd, 2024",
