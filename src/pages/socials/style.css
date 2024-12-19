@@ -29,9 +29,9 @@ button.btn.ac_btn:hover {
     animation-delay: .3s;
 }
 
-.collab-image {
+.sona-image {
     width: 100%; /* Full width on small screens */
-    max-width: 400px; /* Adjust maximum width as needed */
+    max-width: 600px; /* Adjust maximum width as needed */
     height: auto; /* Maintain aspect ratio */
 }
   
@@ -42,9 +42,6 @@ button.btn.ac_btn:hover {
     }
   }
   
-.t_border {
-    border-color: var(--text-color) !important;
-}
 
 @keyframes shift-rightwards {
     0% {
