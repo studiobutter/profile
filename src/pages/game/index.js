@@ -98,6 +98,7 @@ export const PlayWithMe = () => {
                 <HiOutlineInformationCircle />
                 <span> Google Play PC, Epic Games and China Regions are not supported. Wuthering Waves not supported</span>
               </SmallTextContainer>
+            <p>Due to some privacy concern (since HSR Lottery), you may still able to add me. But I will be turning down friend requests. But I ask you to contact me telling me before hand, otherwise I'll be turning down my friend request</p>
             <p></p>
             <p>For Sky: Children of the Light, join the <a href="https://discord.gg/v7eJmvQVgw">Discord</a> server if you want to friend me in Sky.</p>
             <uids>
