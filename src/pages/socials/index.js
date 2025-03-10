@@ -64,9 +64,9 @@ export const Socials = () => {
             <p></p>
             <FaInstagram /> <a href="https://instagram.com/studiobuttermedia/">Instagram</a>
             <p></p>
-            <FaTwitter /> <a href="https://twitter.com/StudioButter2/">Twitter</a>
+            <FaTwitter /> <a href="https://twitter.com/StudioButter/">Twitter</a>
             <p></p>
-            <FaTumblr /> <a href="https://www.tumblr.com/studiobuttermedia">Tumblr</a>
+            <FaTumblr /> <a href="https://www.tumblr.com/studio-butter">Tumblr</a>
             <p></p>
           </Col>
         </Row>
