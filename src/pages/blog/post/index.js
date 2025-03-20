@@ -37,7 +37,9 @@ export const BlogPost = () => {
           alt={blogPost.bannerimage.alt}
         />
         <p></p>
-        <p>{blogPost.content}</p>
+        {blogPost.content.map((contentBlock, index) => (
+          <p key={index}>{contentBlock.text}</p>
+        ))}
         <p></p>
         <h3>Links</h3>
         <ul>
