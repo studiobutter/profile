@@ -44,7 +44,7 @@ button.btn.ac_btn:hover {
   /* Media query for larger screens */
   @media (min-width: 768px) {
     .banner-image {
-      width: 300px; /* Fixed width on larger screens */
+      width: 600px; /* Fixed width on larger screens */
     }
     .cover-image {
         width: 400px;
