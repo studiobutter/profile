@@ -30,7 +30,11 @@ export const BlogPost = () => {
         <h1>{blogPost.title}</h1>
         <hr className="t_border my-4 ml-0 text-left" />
         <h5>{blogPost.date}</h5>
-        <img src={blogPost.bannerimage.url} alt={blogPost.bannerimage.alt} />
+        <img
+          className="banner-image"
+          src={blogPost.bannerimage.url}
+          alt={blogPost.bannerimage.alt}
+        />
         <p>{blogPost.content}</p>
         <br />
         <br />
