@@ -6,7 +6,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import { meta } from "../../../content_option";
 import { Container } from "react-bootstrap";
 
-import ( FaArrowLeft } from "react-icons/fa"
+import ( FaArrowLeft } from "react-icons/fa";
 
 import { blog } from "../../../blog";
 
