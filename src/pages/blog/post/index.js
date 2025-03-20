@@ -6,7 +6,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import { meta } from "../../../content_option";
 import { Container } from "react-bootstrap";
 
-import ( FaArrowLeft } from "react-icons/fa";
+import { FaArrowLeft } from "react-icons/fa";
 
 import { blog } from "../../../blog";
 
@@ -29,7 +29,7 @@ export const BlogPost = () => {
           <title>{blogPost.title} | {meta.title}</title>
           <meta name="description" content={meta.description} />
         </Helmet>
-        <FaArrowLeft /> <a href="javascript:window.history.back();" onclick={(e) => e.preventDefault}>Go Back</a>
+        <FaArrowLeft /> <a href="#" onClick={(e) => { e.preventDefault(); window.history.back(); }}>Go Back</a>
         <p></p>
         <h1>{blogPost.title}</h1>
         <hr className="t_border my-4 ml-0 text-left" />
