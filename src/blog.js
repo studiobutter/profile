@@ -14,9 +14,6 @@ const blog = [
                 text: "As sad as we are, it's time to move on. So what will happen with Sky Beta?"
             },
             {
-                text: " "
-            },
-            {
                 text: "1. The game has been removed from the Apple TestFlight, Google Play Store and Steam. The server are officially down. So expect the app to say unavailable."
             },
             {
@@ -29,13 +26,7 @@ const blog = [
                 text: "4. TGC will soon announce a Close Beta invite. You will need to fill the questionaires and sign an NDA to join the new Close Beta program. All Beta Content cannot be leak and discussions about Sky Beta can only be done in the official Discord server"
             },
             {
-                text: " "
-            },
-            {
                 text: "For legal reason I decided not to join the Close Beta. For future official information, see the official Sky Discord server for more information."
-            },
-            {
-                text: " "
             },
             {
                 text: "I also got a chance to meet Nastymold in-game during her Eden Live Stream. You can see the image above."
@@ -46,7 +37,7 @@ const blog = [
         ],
         bannerimage: {
             url: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/preview/src/assets/images/blog/1/SkyBeta_Last-Day-With-Nastymold.JPG",
-            alt: "Text Banner"
+            alt: "A Group Photo at Orbit with Nastymold"
         },
         links: [
             {
