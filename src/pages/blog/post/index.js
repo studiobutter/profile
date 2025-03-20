@@ -38,6 +38,17 @@ export const BlogPost = () => {
         />
         <p></p>
         <p>{blogPost.content}</p>
+        <p></p>
+        <h3>Links</h3>
+        <ul>
+          {blogPost.links.map((link, index) => (
+            <li key={index}>
+              <a href={link.url} target="_blank" rel="noopener noreferrer">
+                {link.text}
+              </a>
+            </li>
+          ))}
+        </ul>
         <br />
         <br />
       </Container>
