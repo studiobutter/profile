@@ -68,6 +68,9 @@ const Headermain = () => {
                   <li className="menu_item">
                     <Link onClick={handleToggle} to="/blog" className="my-3">Blog</Link>
                   </li>
+                  <li className="menu_item">
+                    <Link onClick={handleToggle} to="/contact" className="my-3">Contact</Link>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -77,7 +80,6 @@ const Headermain = () => {
               <a href="/tos">Terms of Service</a>
               <a href="/changelogs">Changelogs</a>
               <a href="/collab">Collab</a>
-              <a href="/contact">Contact</a>
             </div>
             <p className="copyright m-0">copyright {logotext}. Page Template by <a href="https://github.com/ubaimutl/react-portfolio">ubaimutl</a></p>
           </div>
