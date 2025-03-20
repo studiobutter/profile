@@ -2,12 +2,12 @@
 import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
-import { meta } from "../../../content_option";
+import { meta } from "../../content_option";
 import { Container } from "react-bootstrap";
 
-import { blog } from "../../../blog";
+import { blog } from "../../blog";
 
-export const blog = () => {
+export const BlogMenu = () => {
   return (
     <HelmetProvider>
       <Container>
@@ -23,7 +23,7 @@ export const blog = () => {
             return (
             <tr key={i}>
               <h2>
-              <a href={`/blog/${data.id}`}>{data.title}</a>
+              <a href={`/blog/post?id=${data.id}`}>{data.title}</a>
               </h2>
               <p></p>
               <h5>{data.date}</h5>
