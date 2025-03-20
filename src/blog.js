@@ -2,7 +2,7 @@ const blog = [
     {
         id: 1,
         title: "Thoughts about the Closure of Sky: Children of the Light Open Beta Service", 
-        date: "2021-01-01",
+        date: "March 21st, 2025",
         content: [
             {
                 text: "Hey y'all. This is my first blog to for this website. I want to take a moment to talk about Sky Beta."
