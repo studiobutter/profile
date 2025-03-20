@@ -16,6 +16,8 @@ import { Changelogs } from "../pages/changelogs";
 import { Collab } from "../pages/collab"
 import { Socials } from "../pages/socials";
 
+import { blog_1 } from "../blog/1";
+
 
 const AnimatedRoutes = withRouter(({ location }) => (
   <TransitionGroup>
@@ -41,6 +43,8 @@ const AnimatedRoutes = withRouter(({ location }) => (
         <Route path="/about/sona" element={<CharaAni />} />
         <Route path="/collab" element={<Collab />} />
         <Route path="/socials" element={<Socials />} />
+
+        <Route path="/blog/1" element={<blog_1 />} />
       </Routes>
     </CSSTransition>
   </TransitionGroup>
