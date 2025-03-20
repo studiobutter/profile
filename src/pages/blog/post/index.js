@@ -11,7 +11,7 @@ import { blog } from "../../../blog";
 export const BlogPost = () => {
   const location = useLocation(); // Access the current location
   const queryParams = new URLSearchParams(location.search); // Parse the query string
-  const id = queryParams.get("id"); // Get the 'id' parameter from the query string
+  const id = parseInt(queryParams.get("id"), 10); // Get the 'id' parameter from the query string and convert to number
 
   const blogPost = blog.find((data) => data.id === id); // Find the blog post with the matching id
 
