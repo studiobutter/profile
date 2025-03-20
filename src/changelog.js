@@ -1,5 +1,9 @@
 const changelog = [
     {
+        date: "March 21st, 2025",
+        content: "Add a blog page"
+    },
+    {
         date: "March 10th, 2025",
         content: "Update Socials"
     },
