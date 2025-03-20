@@ -36,7 +36,7 @@ const blog = [
             },
         ],
         bannerimage: {
-            url: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/preview/src/assets/images/blog/1/SkyBeta_Last-Day-With-Nastymold.JPG",
+            url: "https://raw.githubusercontent.com/studiobutter/profile/refs/heads/main/src/assets/images/blog/1/SkyBeta_Last-Day-With-Nastymold.JPG",
             alt: "A Group Photo at Orbit with Nastymold"
         },
         links: [
