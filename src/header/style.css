@@ -183,19 +183,19 @@
         margin-left: 33.3333%;
     }
     .the_menu {
-        padding-top: 10vh;
-        padding-bottom: 10vh;
+        padding-top: 6vh;
+        padding-bottom: 6vh;
     }
 }
 
 .the_menu .menu_item>a {
     color: var(--text-color-2);
     line-height: 1;
-    font-size: 2rem;
+    font-size: 200%;
     display: inline-block;
     position: relative;
     transition: color 250ms cubic-bezier(0, 0, 0.58, 1) 0s;
-    padding: 4px 0px;
+    padding: 1.5px 0px;
     text-decoration: none;
     font-family: Marcellus;
 }

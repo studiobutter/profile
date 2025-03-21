@@ -32,8 +32,9 @@ export const BlogPost = () => {
         <FaArrowLeft /> <a href="#" onClick={(e) => { e.preventDefault(); window.history.back(); }}>Go Back</a>
         <p></p>
         <h1>{blogPost.title}</h1>
+        <p></p>
+        <h5 className="date-text">{blogPost.date}</h5>
         <hr className="t_border my-4 ml-0 text-left" />
-        <h5>{blogPost.date}</h5>
         <p></p>
         <img
           className="banner-image"
