@@ -29,7 +29,7 @@ export const BlogPost = () => {
         </Helmet>
         <h1>{blogPost.title}</h1>
         <hr className="t_border my-4 ml-0 text-left" />
-        <h5>{blogPost.date}</h5>
+        <h5 className="date-text">{blogPost.date}</h5>
         <p></p>
         <img
           className="banner-image"
